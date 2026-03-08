@@ -17,4 +17,4 @@ PolicyDrift Lab detects dangerous policy changes before agentic workflows are de
 2. Visit `http://localhost:8080` (if using local server)
 
 Build on Sundai Club on March 8, 2026  
-Sundai Project: TO_BE_FILLED
+Sundai Project: https://www.sundai.club/projects/8f1514e6-a65c-44aa-9070-ea71b2896acf
